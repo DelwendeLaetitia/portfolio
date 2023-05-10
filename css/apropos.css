@@ -12,14 +12,11 @@ body{
 }
 h1{
     text-align: center;
+    color: white;
 }
 p{
     text-align: center;
-}
-body{
-    
-    background-image: url(../image/classe-auf.jpg);
-    background-size: cover;
+    color: white;
 }
 
 .trait{
@@ -27,34 +24,40 @@ body{
 }
 P{
     text-align: center;
-}
-p1{
     color: white;
-    text-align: center;
+}
+.p1{
+    color: white;
     margin-left: 40px;
 }
 .n1{
     margin-left: 6px;
+    color: white;
 }
 
 .n2{
     margin-left: 230px;
+    color: white;
 }
 
 
 .n3{
     margin-left: 230px;
+    color: white;
 }
 
 
 .n4{
     margin-left: 230px;
+    color: white;
 }
 .n5{
     margin-left: 230px;
+    color: white;
 }
 .n6{
     margin-left: 230px;
+    color: white;
 }
 
 
@@ -71,4 +74,10 @@ footer{
     display: flex;
     margin-left: 1100px;
     color: aliceblue;
+}
+.nav-link{
+    color: white;
+}
+li{
+    color: white;
 }

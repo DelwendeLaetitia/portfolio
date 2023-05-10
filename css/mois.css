@@ -10,7 +10,9 @@ body{
 }
 .link-nav{
     margin-left: 50px;
+    color: white;
 }
+
 .droite{background-color: orangered;
 width: 2px;
 height: 1000px;
@@ -50,4 +52,7 @@ margin-left: 80px;
 .ttt{margin-left: 100px;}
 .pp{
     margin-top: -50px;
+}
+.nav-link{
+    color: white;
 }
