@@ -2,8 +2,8 @@ body{
     background: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.8)),url(../image/classe-auf.jpg);
     background-size: cover;
 }
-.im{
-    margin-left: 1300px;
+ .im{
+    float: right;
 }
 h1{
  text-align: center; 

@@ -15,8 +15,10 @@ body{
 
 .droite{background-color: orangered;
 width: 2px;
-height: 1000px;
-margin: 20px;}
+height: 650px;
+position: absolute;
+margin-left:15% ;
+}
 
 h1{
     text-align: center;
@@ -31,28 +33,30 @@ p{
     color: white;
 }
 
-.trait{
-    margin: auto;
-}
+
 footer{
-    margin-top: 40px;
+text-align: center;
 }
-.cardd{
-    display: flex;
-    margin-top: 40px;
-}
-.p{
-    margin-top: 180px;
-}
+
 .card{background-color: transparent;}
-.card-img{width: 400px;
-height: 400px;
-margin-left: 80px;
-}
-.ttt{margin-left: 100px;}
-.pp{
-    margin-top: -50px;
-}
+
+
+
 .nav-link{
     color: white;
+}
+.droite span{
+    border-radius: 50px;
+    background-color: orange;
+    display: block;
+    position: relative;
+    top: 80px;
+    right: 25px;
+    width: 50px;
+    height: 50px;
+}
+.point{
+    background-color: green;
+    margin-top: 240px;
+
 }
